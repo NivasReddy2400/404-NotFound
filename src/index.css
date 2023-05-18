@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "inco";
+  src: url("/src/fonts/Inconsolata.ttf");
+}
+
+@font-face {
+  font-family: "sm";
+  src: url("/src/fonts/SpaceMono-Regular.ttf");
+}
+
