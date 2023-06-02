@@ -1,3 +1,4 @@
 # 404-NotFound
 Hosted At 
-https://brilliant-pastelito-1b42ee.netlify.app/
+<a href="https://brilliant-pastelito-1b42ee.netlify.app/" target="_blank">Link</a>
+
